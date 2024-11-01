@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathima Rangavajjula</h1>
 <h3 align="center">First-Year CCE Student at Amrita | Executive Volunteer at Microsoft MLSA AVV Amaravati | AVV'27</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8b9cbc48880a647aba320d4dcf06953ff2ec16205197f1f2242bf5b750000c77/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 🔭 I’m currently volunteering as an **Executive in the MLSA AVV Amaravati community**
 
