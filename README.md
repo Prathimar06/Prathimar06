@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently volunteering as an **Executive in the MLSA AVV Amaravati community**
 
-- 🌱 I’m currently learning **Web development technologies, focusing on HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning DSA with **Python** and I know **Python**, **HTML**, **CSS**, and **MySQL**.
+
 
 - 📫 How to reach me **prathimarangavajjula@gmail.com**
 
