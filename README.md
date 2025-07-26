@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" height="30" width="30" /></a>
 <a href="mailto:prathimarangavajjula@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="30" /></a>
 </p>
 
